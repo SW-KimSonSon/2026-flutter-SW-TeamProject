@@ -2,6 +2,8 @@
 
 window desktop app 환경에서 작동하는 코드입니다.
 
+Main.dart에 geminiApiKey 입력하셔야 합니다.
+
 A new Flutter project.
 
 ## Getting Started
